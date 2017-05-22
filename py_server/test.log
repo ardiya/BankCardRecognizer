@@ -1,0 +1,3 @@
+﻿  histeq.cpp
+e:\学习\硕士课程\机器学习\project\test\test\histeq.cpp(76): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  test.vcxproj -> E:\学习\硕士课程\机器学习\Project\test\test\Debug\test.exe
