@@ -16,12 +16,10 @@ Our solution consist of several parts, which are:
 
 **Our final android application looks like this.**
 
-![flowchart.png](https://github.com/ardiya/BankCardRecognizer/raw/master/images/android.png)
+![flowchart.png](https://github.com/ardiya/BankCardRecognizer/raw/master/images/android.PNG)
 
 
 **Our web application can also show some result but with JSON output** (Yes, it is used for communicating with the Android app).
 
-![result.png](https://github.com/ardiya/BankCardRecognizer/raw/master/images/web.png)
-*Our Simple website to recognize bank card number*
+![result.png](https://github.com/ardiya/BankCardRecognizer/raw/master/images/web.PNG)
 ![webresult.png](https://github.com/ardiya/BankCardRecognizer/raw/master/images/webresult.png)
-**
